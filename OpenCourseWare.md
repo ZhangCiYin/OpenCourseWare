@@ -108,7 +108,7 @@
 - 計算機組織
   - [交通大學 單智君教授 - 計算機架構 Computer Architecture](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=238)
   - [交通大學 鍾崇斌教授 - 計算機架構 Computer Architecture (*E)](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=345)
-  - [清華大學 黃婷婷教授 - 計算機結構] (http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=76&)
+  - [清華大學 黃婷婷教授 - 計算機結構](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=76&)
   - [交通大學 李毅郎教授 - 計算機組織 Computer Organization](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=274&page=2)
   - [Computer Organization and Design RISC-V edition(電子書)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
   - [Computer System Architecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/index.htm)
