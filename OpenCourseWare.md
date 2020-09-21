@@ -52,8 +52,8 @@
 
 - 資料結構
   - [UC Berkeley CS61B - Data Structures ](https://people.eecs.berkeley.edu/~jrs/61b/)
-  - [中山大學 楊昌彪教授 - 資料結構] (http://bio.cse.nsysu.edu.tw/ds/new_ds_video.htm)
-  - [交通大學 彭文志教授 - 資料結構] (https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=412)
+  - [中山大學 楊昌彪教授 - 資料結構](http://bio.cse.nsysu.edu.tw/ds/new_ds_video.htm)
+  - [交通大學 彭文志教授 - 資料結構](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=412)
 
 - 數位電路設計
   - [交通大學 鍾崇斌教授 - 數位電路設計 Digital System Design](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=170)
@@ -69,14 +69,14 @@
 - 機率
   - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
   - [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
-  - 台大電機 葉丙成教授 機率與統計 https://www.youtube.com/watch?v=GwSEguqJj6U&t=0s&index=2&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk
+  - [台大電機 葉丙成教授 機率與統計](https://www.youtube.com/watch?v=GwSEguqJj6U&t=0s&index=2&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)
 
 - 演算法概論
   - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
   - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/)
   - [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm)
-  - [中山大學 楊昌彪教授 - 演算法] (http://par.cse.nsysu.edu.tw/~cbyang/course/algo/algo_index.htm)
-  - [交通大學 江蕙如教授 - 演算法Algorithms] (https://ocw.nctu.edu.tw/course_detail.php?bgid=8&gid=0&nid=493&page=2)
+  - [中山大學 楊昌彪教授 - 演算法](http://par.cse.nsysu.edu.tw/~cbyang/course/algo/algo_index.htm)
+  - [交通大學 江蕙如教授 - 演算法Algorithms](https://ocw.nctu.edu.tw/course_detail.php?bgid=8&gid=0&nid=493&page=2)
   - [Princeton University - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
   - [Princeton University - Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
   - [University of California San Diego - Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
@@ -86,7 +86,7 @@
 
 - 數位電路實驗
   - [Introductory Digital Systems Laboratory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/)
-  - [中山電機 莊子肇教授 - 數位系統設計] (https://www.youtube.com/watch?v=4CarWWqN7tA&list=PLInWhIYoGoYfM3sMW0eKOfc5O-3PmmreF&index=12)
+  - [中山電機 莊子肇教授 - 數位系統設計](https://www.youtube.com/watch?v=4CarWWqN7tA&list=PLInWhIYoGoYfM3sMW0eKOfc5O-3PmmreF&index=12)
 
 - 組合語言與系統程式
 
@@ -101,16 +101,16 @@
 
 - 作業系統概論
   - [UC Berkeley - Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/resources/)
-  - [清華大學 周志遠教授 - 作業系統] (http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141&)
-  - [清華大學 黃能富教授 - 作業系統(2016)] (https://www.sharecourse.net/sharecourse/course/view/courseInfo/852)
-  - [黃明祥教授 - Operating Systems(2017)] (http://isrc.ccs.asia.edu.tw/course/os/osindex.htm)
+  - [清華大學 周志遠教授 - 作業系統](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141&)
+  - [清華大學 黃能富教授 - 作業系統(2016)](https://www.sharecourse.net/sharecourse/course/view/courseInfo/852)
+  - [黃明祥教授 - Operating Systems(2017)](http://isrc.ccs.asia.edu.tw/course/os/osindex.htm)
 
 - 計算機組織
   - [交通大學 單智君教授 - 計算機架構 Computer Architecture](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=238)
   - [交通大學 鍾崇斌教授 - 計算機架構 Computer Architecture (*E)](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=345)
-  - [清華大學 黃婷婷教授 - 計算機結構] http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=76&
-  - [交通大學 李毅郎教授 - 計算機組織] Computer Organization  https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=274&page=2
-  - [Computer Organization and Design RISC-V edition(電子書)] (http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
+  - [清華大學 黃婷婷教授 - 計算機結構] (http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=76&)
+  - [交通大學 李毅郎教授 - 計算機組織 Computer Organization](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=274&page=2)
+  - [Computer Organization and Design RISC-V edition(電子書)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
   - [Computer System Architecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/index.htm)
 
 - 機器學習
