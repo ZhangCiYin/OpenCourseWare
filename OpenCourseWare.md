@@ -104,6 +104,7 @@
   - [清華大學 周志遠教授 - 作業系統](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141&)
   - [清華大學 黃能富教授 - 作業系統(2016)](https://www.sharecourse.net/sharecourse/course/view/courseInfo/852)
   - [黃明祥教授 - Operating Systems(2017)](http://isrc.ccs.asia.edu.tw/course/os/osindex.htm)
+  - [作業系統 - 科目學習整理](https://ithelp.ithome.com.tw/articles/10229671)
 
 - 計算機組織
   - [交通大學 單智君教授 - 計算機架構 Computer Architecture](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=238)
