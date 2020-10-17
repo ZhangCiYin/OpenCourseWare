@@ -186,3 +186,7 @@
 
 #### 英文聽力訓練
 - [Wisdom Bread 智慧麵包 - 英文演講系列](https://www.youtube.com/watch?v=1oLdExa62AI&list=PLdikvCeIHUtvODOLSChc-oWP1GjtlZme6&index=2)
+
+#### String Matching演算法
+- [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/~lecroq/string/)
+
