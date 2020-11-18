@@ -10,6 +10,8 @@
 - 相關連結
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
   - [Coursera.org](https://www.coursera.org/)
+  - [edX](https://www.edx.org/)
+  - [udacity](https://www.udacity.com/)
   - [台灣開放式課程聯盟](https://www.tocec.org.tw/web/index.jsp)
   - [國立交通大學開放式課程](https://ocw.nctu.edu.tw/)
   - [交通大學 Youtube EDU](https://www.youtube.com/user/nctuocw)
@@ -127,6 +129,9 @@
 
 - 人工智慧概論
   - [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+
+- 深度學習
+  - [Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
 
 - 微分方程
   - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
