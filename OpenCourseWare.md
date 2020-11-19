@@ -188,6 +188,8 @@
 - [PAPAYA 電腦教室 - PowerPoint 基礎教學](https://www.youtube.com/watch?v=XzaYDv48-eE&list=PL7enJ2-v6SPmqEd_I9zQmCd4b6VSJhYqy)
 - [PAPAYA 電腦教室 - Excel 基礎教學](https://www.youtube.com/watch?v=wg3R5LdQ56k&list=PL7enJ2-v6SPm-EHMuRMCG7R7C-vXQugNM)
 
+#### 翻譯神器
+- [DeepL](https://www.deepl.com/translator)
 
 #### 英文聽力訓練
 - [Wisdom Bread 智慧麵包 - 英文演講系列](https://www.youtube.com/watch?v=1oLdExa62AI&list=PLdikvCeIHUtvODOLSChc-oWP1GjtlZme6&index=2)
