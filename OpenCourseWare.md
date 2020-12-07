@@ -182,6 +182,9 @@
 
 - 電腦動畫概論
 
+#### 電子設計自動化EDA
+ 
+- [Summer Training 2020](http://nthucad.cs.nthu.edu.tw/~yyliu/training2020/)
 
 #### 文書處理類別
  
