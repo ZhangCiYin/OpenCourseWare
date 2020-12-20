@@ -1,5 +1,7 @@
-# OpenCourseWare
-#### 整理求學過程中找過的開放式課程資源，涵蓋國內與國外各知名大學的開放式課程，順便準備未來準備充實自己的方向。
+<h3 align="center">OpenCourseWare</h3>
+<p align="center">
+  整理求學過程中找過的開放式課程資源，涵蓋國內與國外各知名大學的開放式課程，順便準備未來準備充實自己的方向。
+</p>
 
 - 特別注意課程的：
   - 大綱、進度表 -> 了解整個課程各部份所需付出的心力，讓你更容易安排自己的學習進度
@@ -18,8 +20,7 @@
   - [國立台灣大學開放式課程](http://ocw.aca.ntu.edu.tw/ntu-ocw/)
   - [台灣大學 Youtube EDU](https://www.youtube.com/ntutw)
   - [免出國、零學費，國內外知名大學線上課程大搜集](https://www.techbang.com/posts/6394-moves-the-use-of-live-online-courses-open-dissemination-of-knowledge-into-new-areas-meng-continue)
-
-
+  
 - 微積分
   - [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
   - [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
@@ -200,3 +201,11 @@
 #### String Matching演算法
 - [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/~lecroq/string/)
 
+**Latex_適合排數學式子的排版語言**
+- [官網](https://www.latex-project.org/)
+- [語法教學](http://www.cs.nthu.edu.tw/~cherung/teaching/2009cs5321/link/latex.pdf)
+- [介紹與教學](https://jupiter.math.nctu.edu.tw/~smchang/latex/latex123.pdf)
+
+**Apache Hadoop**
+- [官網](https://hadoop.apache.org/)
+- [教學](https://docs.microsoft.com/zh-tw/azure/hdinsight/hadoop/apache-hadoop-introduction)
