@@ -96,7 +96,8 @@
 - 數位電路實驗
   - [Introductory Digital Systems Laboratory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/)
   - [中山電機 莊子肇教授 - 數位系統設計](https://www.youtube.com/watch?v=4CarWWqN7tA&list=PLInWhIYoGoYfM3sMW0eKOfc5O-3PmmreF&index=12)
-
+  - [江蕙如](https://ocw.nctu.edu.tw/course_detail.php?bgid=8&gid=0&nid=174#.WcdY7sig-Uk)
+  
 - 組合語言與系統程式
 
 - 資料庫系統概論
@@ -109,7 +110,7 @@
   - [Automata, Computability, and Complexity](http://dspace.mit.edu/handle/1721.1/68649)
 
 - 作業系統概論
-目標(參考用): 恐龍書(基本)，把一顆小RTOS啃熟或著Linux幾個重要的部份(開機流程、fork-exec的system call...)實做，看懂跟計算機組織/架構相關的如demand-paging cache操作等等
+##### 目標(參考用): 恐龍書(基本)，把一顆小RTOS啃熟或著Linux幾個重要的部份(開機流程、fork-exec的system call...)實做，看懂跟計算機組織/架構相關的如demand-paging cache操作等等
   - [UC Berkeley - Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/resources/)
   - [清華大學 周志遠教授 - 作業系統](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141&)
   - [清華大學 黃能富教授 - 作業系統(2016)](https://www.sharecourse.net/sharecourse/course/view/courseInfo/852)
@@ -117,7 +118,7 @@
   - [作業系統 - 科目學習整理](https://ithelp.ithome.com.tw/articles/10229671)
 
 - 計算機組織
-目標(參考用): 用verilog做出一顆小MIPS來SPIM模擬器跑出來正確性多少給你幾分
+##### 目標(參考用): 用verilog做出一顆小MIPS來SPIM模擬器跑出來正確性多少給你幾分
   - [交通大學 單智君教授 - 計算機架構 Computer Architecture](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=238)
   - [交通大學 鍾崇斌教授 - 計算機架構 Computer Architecture (*E)](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=345)
   - [清華大學 黃婷婷教授 - 計算機結構](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=76&)
@@ -141,7 +142,7 @@
 - 微處理機系統實驗
 
 - 編譯器設計概論
-目標(參考用): 113徐老爹114李老師，google一下兩位的徒子徒孫論文，就是業界圈內人的要求。要懂一些平台實務上linker/loader的知識
+##### 目標(參考用): 113徐老爹114李老師，google一下兩位的徒子徒孫論文，就是業界圈內人的要求。要懂一些平台實務上linker/loader的知識
   - [Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
 - 人工智慧概論
@@ -155,9 +156,6 @@
 
 - 數值方法
   - [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2010/)
-
-- 數位邏輯設計
-  - [江蕙如](https://ocw.nctu.edu.tw/course_detail.php?bgid=8&gid=0&nid=174#.WcdY7sig-Uk)
 
 - 訊號與系統
   - [Signals and Systems](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)
@@ -241,8 +239,7 @@ EDA領域的啟蒙影片
 - [教學](https://docs.microsoft.com/zh-tw/azure/hdinsight/hadoop/apache-hadoop-introduction)
 
 **kaggle**
-- [官網](https://www.kaggle.com/)
-簡介:AI浪潮下最受歡迎的網站，可以讓沒有大數據的人玩大數據。
+- [官網](https://www.kaggle.com/):AI浪潮下最受歡迎的網站，可以讓沒有大數據的人玩大數據。
 
 **台大CSIE系友訪談**
 - [人生勝利組遭遇的挫折](http://csiecomm.blogspot.tw/)
