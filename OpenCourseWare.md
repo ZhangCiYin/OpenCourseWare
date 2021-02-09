@@ -41,6 +41,7 @@
 
 - 線性代數
   - [MIT - Linear Algebra(Spring 2005)(*E)](https://www.youtube.com/watch?v=Ts3o2I8_Mxc&index=31&list=PLE7DDD91010BC51F8)
+  - [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA16.html)
   - [中文教材](https://www.cs.pu.edu.tw/~tsay/course/LinearAlgebra/)
 
 - 物件導向程式設計
@@ -58,6 +59,7 @@
   - [UC Berkeley CS61B - Data Structures ](https://people.eecs.berkeley.edu/~jrs/61b/)
   - [中山大學 楊昌彪教授 - 資料結構](http://bio.cse.nsysu.edu.tw/ds/new_ds_video.htm)
   - [交通大學 彭文志教授 - 資料結構](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=412)
+  - [張智星](http://mirlab.org/jang/courses/dsa/index.asp)
 
 - 數位電路設計
   - [交通大學 鍾崇斌教授 - 數位電路設計 Digital System Design](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=170)
@@ -84,6 +86,7 @@
   - [交通大學 江蕙如教授 - 演算法Algorithms](https://ocw.nctu.edu.tw/course_detail.php?bgid=8&gid=0&nid=493&page=2)
   - [Princeton University - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
   - [Princeton University - Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+  - [Princeton University - Kevin Wayne - Algorithms](https://www.cs.princeton.edu/~wayne/teaching/)
   - [University of California San Diego - Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
   - [Stanford University - Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
   - [University of California San Diego - Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
@@ -106,6 +109,7 @@
   - [Automata, Computability, and Complexity](http://dspace.mit.edu/handle/1721.1/68649)
 
 - 作業系統概論
+目標(參考用): 恐龍書(基本)，把一顆小RTOS啃熟或著Linux幾個重要的部份(開機流程、fork-exec的system call...)實做，看懂跟計算機組織/架構相關的如demand-paging cache操作等等
   - [UC Berkeley - Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/resources/)
   - [清華大學 周志遠教授 - 作業系統](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141&)
   - [清華大學 黃能富教授 - 作業系統(2016)](https://www.sharecourse.net/sharecourse/course/view/courseInfo/852)
@@ -113,6 +117,7 @@
   - [作業系統 - 科目學習整理](https://ithelp.ithome.com.tw/articles/10229671)
 
 - 計算機組織
+目標(參考用): 用verilog做出一顆小MIPS來SPIM模擬器跑出來正確性多少給你幾分
   - [交通大學 單智君教授 - 計算機架構 Computer Architecture](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=238)
   - [交通大學 鍾崇斌教授 - 計算機架構 Computer Architecture (*E)](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=345)
   - [清華大學 黃婷婷教授 - 計算機結構](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=76&)
@@ -122,21 +127,21 @@
   - [YU-GUANG CHEN](https://www.youtube.com/playlist?list=PLbDUtGezGAwMn0B529EEP4k_00WlMffKU)
   - [英文教材 - Computer Organization and Design RISC-V Edition: The Hardware Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
   - [學習筆記](https://mropengate.blogspot.com/search/label/Computer%20Science-Computer%20%20Organization)
-
-- FPGA設計實務
-  - [01](http://b2.hlvs.ylc.edu.tw/ezfiles/3/1003/img/106/20140421084636.pdf)
-  - [VHDL數位電路設計實務教本 - Quartus II安裝](http://ccy.dd.ncu.edu.tw/~chen/course/embedded/Quartus%20II%E5%AE%89%E8%A3%9D%E5%8F%8AVHDL%E4%BD%BF%E7%94%A8.pdf)
-  - [VHDL教學講義](https://hom-wang.gitbooks.io/verilog-hdl/content/index.html)
   
 - 機器學習
   - [Stanford University - Andrew Ng - Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [University of Washington - Machine Learning](https://www.coursera.org/specializations/machine-learning)
-
+  - [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+  私心建議2016spring版本。適合以實用取向的學生修習。
+  - [林軒田](https://www.youtube.com/playlist?list=PL1AVtvtzG0LYN-dOGPYyRrzzyI5fk_D4H)
+  - [陳縕儂](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus)    
+    
 - 密碼學概論
 
 - 微處理機系統實驗
 
 - 編譯器設計概論
+目標(參考用): 113徐老爹114李老師，google一下兩位的徒子徒孫論文，就是業界圈內人的要求。要懂一些平台實務上linker/loader的知識
   - [Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
 - 人工智慧概論
@@ -151,7 +156,9 @@
 - 數值方法
   - [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2010/)
 
-- 數理邏輯
+- 數位邏輯設計
+  - [江蕙如](https://ocw.nctu.edu.tw/course_detail.php?bgid=8&gid=0&nid=174#.WcdY7sig-Uk)
+
 - 訊號與系統
   - [Signals and Systems](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)
 
@@ -198,6 +205,18 @@
  
 - [Summer Training 2020](http://nthucad.cs.nthu.edu.tw/~yyliu/training2020/)
 
+- [李建模 - VLSI Testing](https://www.youtube.com/playlist?list=PLvd8d-SyI7hjk_Ci0zpTqImAtpEjdK5JF)
+
+- [張耀文 - 專題演講](https://www.youtube.com/watch?v=WBJW1nUGG8E&t=373s)
+EDA領域的啟蒙影片
+
+- [Kurt Keutzer - 電腦輔助設計(CAD)](https://people.eecs.berkeley.edu/~keutzer/classes/244fa2005/lectures/)
+
+- FPGA設計實務
+  - [01](http://b2.hlvs.ylc.edu.tw/ezfiles/3/1003/img/106/20140421084636.pdf)
+  - [VHDL數位電路設計實務教本 - Quartus II安裝](http://ccy.dd.ncu.edu.tw/~chen/course/embedded/Quartus%20II%E5%AE%89%E8%A3%9D%E5%8F%8AVHDL%E4%BD%BF%E7%94%A8.pdf)
+  - [VHDL教學講義](https://hom-wang.gitbooks.io/verilog-hdl/content/index.html)
+
 #### 文書處理類別
  
 - [PAPAYA 電腦教室 - PowerPoint 基礎教學](https://www.youtube.com/watch?v=XzaYDv48-eE&list=PL7enJ2-v6SPmqEd_I9zQmCd4b6VSJhYqy)
@@ -220,3 +239,11 @@
 **Apache Hadoop**
 - [官網](https://hadoop.apache.org/)
 - [教學](https://docs.microsoft.com/zh-tw/azure/hdinsight/hadoop/apache-hadoop-introduction)
+
+**kaggle**
+- [官網](https://www.kaggle.com/)
+簡介:AI浪潮下最受歡迎的網站，可以讓沒有大數據的人玩大數據。
+
+**台大CSIE系友訪談**
+- [人生勝利組遭遇的挫折](http://csiecomm.blogspot.tw/)
+- [信號與人生](https://www.facebook.com/notes/tiffany-chiang/%E4%BF%A1%E8%99%9F%E8%88%87%E4%BA%BA%E7%94%9F%E4%B8%80%E6%9D%8E%E7%90%B3%E5%B1%B1/1033912933368244)
