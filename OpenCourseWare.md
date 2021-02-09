@@ -42,7 +42,6 @@
 - 線性代數
   - [MIT - Linear Algebra(Spring 2005)(*E)](https://www.youtube.com/watch?v=Ts3o2I8_Mxc&index=31&list=PLE7DDD91010BC51F8)
   - [中文教材](https://www.cs.pu.edu.tw/~tsay/course/LinearAlgebra/)
-  - [英文教材 - Probability and Statistics for Engineers and Scientists](https://fac.ksu.edu.sa/sites/default/files/probability_and_statistics_for_engineers_and_scientisst.pdf)
 
 - 物件導向程式設計
   - [Introduction to C Memory Management and C++ Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)
@@ -75,7 +74,8 @@
   - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
   - [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
   - [台大電機 葉丙成教授 機率與統計](https://www.youtube.com/watch?v=GwSEguqJj6U&t=0s&index=2&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)
-
+  - [英文教材 - Probability and Statistics for Engineers and Scientists](https://fac.ksu.edu.sa/sites/default/files/probability_and_statistics_for_engineers_and_scientisst.pdf)
+  
 - 演算法概論
   - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
   - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/)
@@ -87,6 +87,7 @@
   - [University of California San Diego - Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
   - [Stanford University - Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
   - [University of California San Diego - Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+  - [學習筆記](https://mropengate.blogspot.com/search/label/Computer%20Science-Algorithm)
   
 
 - 數位電路實驗
@@ -118,7 +119,15 @@
   - [交通大學 李毅郎教授 - 計算機組織 Computer Organization](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=274&page=2)
   - [Computer Organization and Design RISC-V edition(電子書)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
   - [Computer System Architecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/index.htm)
+  - [YU-GUANG CHEN](https://www.youtube.com/playlist?list=PLbDUtGezGAwMn0B529EEP4k_00WlMffKU)
+  - [英文教材 - Computer Organization and Design RISC-V Edition: The Hardware Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
+  - [學習筆記](https://mropengate.blogspot.com/search/label/Computer%20Science-Computer%20%20Organization)
 
+- FPGA設計實務
+  - [01](http://b2.hlvs.ylc.edu.tw/ezfiles/3/1003/img/106/20140421084636.pdf)
+  - [VHDL數位電路設計實務教本 - Quartus II安裝](http://ccy.dd.ncu.edu.tw/~chen/course/embedded/Quartus%20II%E5%AE%89%E8%A3%9D%E5%8F%8AVHDL%E4%BD%BF%E7%94%A8.pdf)
+  - [VHDL教學講義](https://hom-wang.gitbooks.io/verilog-hdl/content/index.html)
+  
 - 機器學習
   - [Stanford University - Andrew Ng - Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [University of Washington - Machine Learning](https://www.coursera.org/specializations/machine-learning)
