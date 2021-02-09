@@ -41,7 +41,9 @@
 
 - 線性代數
   - [MIT - Linear Algebra(Spring 2005)(*E)](https://www.youtube.com/watch?v=Ts3o2I8_Mxc&index=31&list=PLE7DDD91010BC51F8)
-  
+  - [中文教材](https://www.cs.pu.edu.tw/~tsay/course/LinearAlgebra/)
+  - [英文教材 - Probability and Statistics for Engineers and Scientists](https://fac.ksu.edu.sa/sites/default/files/probability_and_statistics_for_engineers_and_scientisst.pdf)
+
 - 物件導向程式設計
   - [Introduction to C Memory Management and C++ Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)
   
