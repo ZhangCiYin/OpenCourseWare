@@ -110,7 +110,7 @@
   - [Automata, Computability, and Complexity](http://dspace.mit.edu/handle/1721.1/68649)
 
 - 作業系統概論
-##### 目標(參考用): 恐龍書(基本)，把一顆小RTOS啃熟或著Linux幾個重要的部份(開機流程、fork-exec的system call...)實做，看懂跟計算機組織/架構相關的如demand-paging cache操作等等
+  - ##### 目標(參考用): 恐龍書(基本)，把一顆小RTOS啃熟或著Linux幾個重要的部份(開機流程、fork-exec的system call...)實做，看懂跟計算機組織/架構相關的如demand-paging cache操作等等
   - [UC Berkeley - Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/resources/)
   - [清華大學 周志遠教授 - 作業系統](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141&)
   - [清華大學 黃能富教授 - 作業系統(2016)](https://www.sharecourse.net/sharecourse/course/view/courseInfo/852)
@@ -118,7 +118,7 @@
   - [作業系統 - 科目學習整理](https://ithelp.ithome.com.tw/articles/10229671)
 
 - 計算機組織
-##### 目標(參考用): 用verilog做出一顆小MIPS來SPIM模擬器跑出來正確性多少給你幾分
+  - ##### 目標(參考用): 用verilog做出一顆小MIPS來SPIM模擬器跑出來正確性多少給你幾分
   - [交通大學 單智君教授 - 計算機架構 Computer Architecture](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=238)
   - [交通大學 鍾崇斌教授 - 計算機架構 Computer Architecture (*E)](https://ocw.nctu.edu.tw/course_detail.php?bgid=9&gid=0&nid=345)
   - [清華大學 黃婷婷教授 - 計算機結構](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=76&)
@@ -142,7 +142,7 @@
 - 微處理機系統實驗
 
 - 編譯器設計概論
-##### 目標(參考用): 113徐老爹114李老師，google一下兩位的徒子徒孫論文，就是業界圈內人的要求。要懂一些平台實務上linker/loader的知識
+  - ##### 目標(參考用): 113徐老爹114李老師，google一下兩位的徒子徒孫論文，就是業界圈內人的要求。要懂一些平台實務上linker/loader的知識
   - [Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
 - 人工智慧概論
