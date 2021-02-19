@@ -220,6 +220,9 @@ EDA領域的啟蒙影片
 - [PAPAYA 電腦教室 - PowerPoint 基礎教學](https://www.youtube.com/watch?v=XzaYDv48-eE&list=PL7enJ2-v6SPmqEd_I9zQmCd4b6VSJhYqy)
 - [PAPAYA 電腦教室 - Excel 基礎教學](https://www.youtube.com/watch?v=wg3R5LdQ56k&list=PL7enJ2-v6SPm-EHMuRMCG7R7C-vXQugNM)
 
+#### 筆記軟體
+- [IEEE-Xplore](https://www.ieee.org/profile/public/createwebaccount/showCreateAccount.html?sourceCode=xplore&car=IEEE-Xplore&autoSignin=Y&signinurl=https%3A%2F%2Fieeexplore.ieee.org%2FXplore%2Flogin.jsp%3Furl%3D%2FXplore%2Fhome.jsp%26reason%3Dauthenticate&url=https://ieeexplore.ieee.org/document/6774551)
+
 #### 翻譯神器
 - [DeepL](https://www.deepl.com/translator)
 
