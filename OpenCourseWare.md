@@ -226,6 +226,9 @@ EDA領域的啟蒙影片
 #### 翻譯神器
 - [DeepL](https://www.deepl.com/translator)
 
+#### 視覺化呈現
+- [LABVIEW](https://www.youtube.com/watch?v=-y-5sACjPUQ)
+
 #### 英文聽力訓練
 - [Wisdom Bread 智慧麵包 - 英文演講系列](https://www.youtube.com/watch?v=1oLdExa62AI&list=PLdikvCeIHUtvODOLSChc-oWP1GjtlZme6&index=2)
 
