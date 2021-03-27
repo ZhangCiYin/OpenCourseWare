@@ -127,8 +127,12 @@
   - [Computer System Architecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/index.htm)
   - [YU-GUANG CHEN](https://www.youtube.com/playlist?list=PLbDUtGezGAwMn0B529EEP4k_00WlMffKU)
   - [英文教材 - Computer Organization and Design RISC-V Edition: The Hardware Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
-  - [學習筆記](https://mropengate.blogspot.com/search/label/Computer%20Science-Computer%20%20Organization)
-  
+  - [學習筆記_1](https://mropengate.blogspot.com/search/label/Computer%20Science-Computer%20%20Organization)
+  - [學習筆記_2](https://hackmd.io/@8bFA57f7SRG-K7AAT8s62g/ryv1NT3S)
+  - [學習筆記_3](https://chi_gitbook.gitbooks.io/personal-note/content/single-cycle_implementation.html)
+  - [學習筆記_4](https://hackmd.io/@ETC/Sy8hyIVm4#Instrustion)
+  - [學習筆記_5](https://hackmd.io/@jkrvivian/rkloHgHcx?type=view#Instruction-Set-ArchitectureB)
+
 - 機器學習
   - [Stanford University - Andrew Ng - Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [University of Washington - Machine Learning](https://www.coursera.org/specializations/machine-learning)
